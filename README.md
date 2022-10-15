@@ -41,5 +41,5 @@ I'm Rania, a Communication and Electronics fresh graduate Engineer with passion 
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" alt="scikitlearn" height="50" width="100"/>
 <img align="center" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="numpy" height="50" width="50"/>
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png" alt="pandas" height="50" width="100"/>
-<img align="center" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="matplotlib" height="50" width="100"/>
+<img align="center" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="matplotlib" height="30" width="100"/>
 </p>
