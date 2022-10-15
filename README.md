@@ -47,11 +47,5 @@ I'm Rania, a Communication and Electronics fresh graduate Engineer with passion 
 <details>
 <summary><b>✨&nbsp;&nbsp;My&nbsp;Resume</b></summary>
   <br/>
-<center>
-<object data=
-"https://drive.google.com/file/d/13k9n0_FEgAQ1NjCmygITT_7XC9HPhUWk/view?usp=sharing" 
-                width="800" 
-                height="500"> 
- </object>
- </center>
+ <iframe src="https://drive.google.com/file/d/13k9n0_FEgAQ1NjCmygITT_7XC9HPhUWk/view?usp=sharing" title="Resume" width="800"> </iframe>
  </details>
