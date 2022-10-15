@@ -22,8 +22,11 @@ I'm Rania, a Communication and Electronics fresh graduate Engineer with passion 
 
 ### &nbsp;**Languages and Tools**
 <p align="left">
- <img align="center" src="https://www.kindpng.com/picc/m/159-1595848_python-logo-png-transparent-background-python-logo-png.png" alt="Python" height="40" width="40"/>
- <img align="center" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" alt="HTML5" height="40" width="40"/>
- <img align="center" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png" alt="CSS" height="40" width="40"/>
- <img align="center" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" alt="HTML5" height="40" width="40"/>
+ <img align="center" src="https://www.kindpng.com/picc/m/159-1595848_python-logo-png-transparent-background-python-logo-png.png" alt="Python" height="50" width="50"/>
+ <img align="center" src="https://www.kindpng.com/picc/m/403-4039227_c-language-logo-png-transparent-png.png" alt="C" height="50" width="50"/>
+ <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="CPP" height="50" width="50"/>
+ <img align="center" src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png" alt="C#" height="50" width="50"/>
+ <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png?20160212050515" alt="R" height="50" width="50"/>
+ <img align="center" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png?20160212050515](https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png)" alt="SQL" height="50" width="50"/>
+ <img align="center" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" alt="HTML5-CSS-JS" height="150" width="50"/>
  </p?
