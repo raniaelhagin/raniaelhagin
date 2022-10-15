@@ -3,7 +3,6 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-Welcome to my page! 
 I'm Rania, a Communication and Electronics fresh graduate Engineer with passion for Data. Extremely enthusiastic about Data Science and applying my skills in Data Analysis, Machine Learning and Computer Vision. Looking for opportunities in Data Science, Machine Learning and/or Computer vision.
 
 - 🔭 &nbsp;I’m currently a Data Science and Business Analytics intern at The Sparks Foundation 
