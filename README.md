@@ -13,7 +13,7 @@ I'm Rania, a Communication and Electronics fresh graduate Engineer with passion 
  &nbsp;**Connect with me**
 <p align="left">
   
-<a href="https://linkedin.com/in/rania-hamada" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" alt="rania-hamada" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rania-hamada" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" alt="rania-hamada" height="40" width="40" /></a>
   
 
 </p>
