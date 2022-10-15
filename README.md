@@ -22,6 +22,8 @@ I'm Rania, a Communication and Electronics fresh graduate Engineer with passion 
 
 ### &nbsp;**Languages and Tools**
 <p align="left">
- <img align="center" src="https://w7.pngwing.com/pngs/585/822/png-transparent-python-scalable-graphics-logo-javascript-creative-dimensional-code-angle-text-rectangle.png" alt="Python" height="40" width="40"/>
- 
+ <img align="center" src="https://www.kindpng.com/picc/m/159-1595848_python-logo-png-transparent-background-python-logo-png.png" alt="Python" height="40" width="40"/>
+ <img align="center" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" alt="HTML5" height="40" width="40"/>
+ <img align="center" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png" alt="CSS" height="40" width="40"/>
+ <img align="center" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" alt="HTML5" height="40" width="40"/>
  </p?
