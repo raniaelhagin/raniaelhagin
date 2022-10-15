@@ -17,6 +17,6 @@ I'm Rania, a Communication and Electronics fresh graduate Engineer with passion 
  <a href="mailto:raniahamada0308@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="rania-hamada" height="40" width="40" /></a>
  <a href="https://twitter.com/RaniaElhagin" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="raniaElhagin" height="40" width="40" /></a>
 <a href="https://www.facebook.com/rania.hamada.0308" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-facebook-icon-png-images-icons-and-png-backgrounds-1.png" alt="raniahamada" height="40" width="40" /></a>
-<a href="https://www.goodreads.com/user/show/132877131" target="blank"><img align="center" src="https://cdn.freebiesupply.com/images/thumbs/2x/goodreads-logo.png" alt="raniahamada" height="30" width="40" /></a>
+<a href="https://www.goodreads.com/user/show/132877131" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Goodreads_%27g%27_logo.png" alt="raniahamada" height="40" width="40" /></a>
 </p>
 
