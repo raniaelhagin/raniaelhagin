@@ -14,13 +14,8 @@ I'm Rania, a Communication and Electronics fresh graduate Engineer with passion 
 <p align="left">
   
 <a href="https://linkedin.com/in/rania-hamada" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" alt="rania-hamada" height="40" width="40" /></a>
- 
  <a href="mailto:raniahamada0308@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="rania-hamada" height="40" width="40" /></a>
- 
  <a href="https://twitter.com/RaniaElhagin" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="raniaElhagin" height="40" width="40" /></a>
- 
 <a href="https://www.facebook.com/rania.hamada.0308" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-facebook-icon-png-images-icons-and-png-backgrounds-1.png" alt="raniahamada" height="40" width="40" /></a>
-  
-
 </p>
 
