@@ -44,8 +44,8 @@ I'm Rania, a Communication and Electronics fresh graduate Engineer with passion 
 <img align="center" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="matplotlib" height="30" width="100"/>
 </p>
 
-<details>
+<!-- <details>
 <summary><b>✨&nbsp;&nbsp;My&nbsp;Resume</b></summary>
   <br/>
  <iframe src="https://drive.google.com/file/d/13k9n0_FEgAQ1NjCmygITT_7XC9HPhUWk/view?usp=sharing" title="Resume" width="800"> </iframe>
- </details>
+ </details> -->
