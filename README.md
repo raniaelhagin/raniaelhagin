@@ -8,8 +8,15 @@ I'm Rania, a Communication and Electronics fresh graduate Engineer with passion 
 - 🔭 &nbsp;I’m currently a Data Science and Business Analytics intern at The Sparks Foundation 
 - 🌱 &nbsp;I’m currently learning Machine Learning and Tableau
 - 📫 &nbsp;You can get in touch with me by email at [eng-rania.hamada1722@alexu.edu.eg](mailto:eng-rania.hamada1722@alexu.edu.eg) or [rania-hamada](https://www.linkedin.com/in/rania-hamada/)
+- ⚡ &nbsp;Fun fact: I :heart: reading, writing and photography
 
-<!---
-raniaelhagin/raniaelhagin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ &nbsp;**Connect with me**
+<p align="left">
+  
+<i class="fa-brands fa-linkedin"></i>
+  
+<!-- <a href="https://linkedin.com/in/rania-hamada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rania-hamada" height="30" width="40" /></a>
+   -->
+
+</p>
+
