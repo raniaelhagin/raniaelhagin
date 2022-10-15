@@ -22,6 +22,6 @@ I'm Rania, a Communication and Electronics fresh graduate Engineer with passion 
 
 ### &nbsp;**Languages and Tools**
 <p align="left">
- <img align="center" src="https://www.kindpng.com/picc/m/159-1595848_python-logo-png-transparent-background-python-logo-png.png" alt="Python" height="40" width="40"/>
+ <img align="center" src="https://www.pikpng.com/pngl/m/230-2301371_python-programming-python-logo-transparent-background-clipart.png" alt="Python" height="40" width="40"/>
  
  </p?
