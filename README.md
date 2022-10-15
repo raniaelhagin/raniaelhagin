@@ -43,3 +43,15 @@ I'm Rania, a Communication and Electronics fresh graduate Engineer with passion 
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png" alt="pandas" height="50" width="100"/>
 <img align="center" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="matplotlib" height="30" width="100"/>
 </p>
+
+<details>
+<summary><b>✨&nbsp;&nbsp;My&nbsp;Resume</b></summary>
+  <br/>
+<center>
+<object data=
+"https://drive.google.com/file/d/13k9n0_FEgAQ1NjCmygITT_7XC9HPhUWk/view?usp=sharing" 
+                width="800" 
+                height="500"> 
+ </object>
+ </center>
+ </details>
