@@ -10,7 +10,7 @@ I'm Rania, a Communication and Electronics fresh graduate Engineer with passion 
 - 📫 &nbsp;You can get in touch with me by email at [eng-rania.hamada1722@alexu.edu.eg](mailto:eng-rania.hamada1722@alexu.edu.eg) or [rania-hamada](https://www.linkedin.com/in/rania-hamada/)
 - ⚡ &nbsp;Fun fact: I :heart: reading, writing and photography
 
- #### 🔗&nbsp;**Connect with me**
+ ### 🔗&nbsp;**Connect with me**
 <p align="left">
   
 <a href="https://linkedin.com/in/rania-hamada" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" alt="rania-hamada" height="40" width="40" /></a>
@@ -20,4 +20,8 @@ I'm Rania, a Communication and Electronics fresh graduate Engineer with passion 
 <a href="https://www.goodreads.com/user/show/132877131" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Goodreads_%27g%27_logo.png" alt="raniahamada" height="40" width="40" /></a>
 </p>
 
-#### &nbsp;**Languages and Tools**
+### &nbsp;**Languages and Tools**
+<p align="left">
+ <img align="center" src="https://www.kindpng.com/picc/m/159-1595848_python-logo-png-transparent-background-python-logo-png.png" alt="Python" height="40" width="40"/>
+ 
+ </p?
