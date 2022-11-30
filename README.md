@@ -5,7 +5,7 @@
 
 I'm Rania, a Communication and Electronics fresh graduate Engineer with passion for Data. Extremely enthusiastic about Data Science and applying my skills in Data Analysis, Machine Learning and Computer Vision. Looking for opportunities in Data Science, Machine Learning and/or Computer vision.
 
-- 🔭 &nbsp;I’m currently a Data Science and Business Analytics intern at The Sparks Foundation 
+- 🔭 &nbsp;I’m currently a Machine Learning Engineer Intern at Technolabs Software 
 - 🌱 &nbsp;I’m currently learning Machine Learning and SQL & DB
 - 📫 &nbsp;You can get in touch with me by email at [raniahamada0308@gmail.com](mailto:raniahamada0308@gmail.com) or [rania-hamada](https://www.linkedin.com/in/rania-hamada/)
 - ⚡ &nbsp;Fun fact: I :heart: reading, writing and photography
