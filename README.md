@@ -3,7 +3,7 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-I'm Rania, a Communication and Electronics fresh graduate Engineer with passion for Data. Extremely enthusiastic about Data Science and applying my skills in Data Analysis, Machine Learning and Computer Vision. Looking for opportunities in Data Science, Machine Learning and/or Computer vision.
+I'm Rania, a Communication and Electronics fresh graduate Engineer with passion for Data, willing to learn and grow. Data and Programming Enthusiast with strong Statistical and Mathematical background. Strategic thinking and meaning of work are the main principles of my work.
 
 - 🔭 &nbsp;I’m currently a Machine Learning Engineer Intern at Technolabs Software 
 - 🌱 &nbsp;I’m currently learning Machine Learning and SQL & DB
