@@ -7,7 +7,7 @@ I'm Rania, a Communication and Electronics fresh graduate Engineer with passion 
 
 - 🔭 &nbsp;I’m currently a Machine Learning Engineer Intern at Technolabs Software 
 - 🌱 &nbsp;I’m currently learning Machine Learning and SQL & DB
-- 📫 &nbsp;You can get in touch with me by email at [raniahamada0308@gmail.com](mailto:raniahamada0308@gmail.com) or [rania-hamada](https://www.linkedin.com/in/rania-hamada/)
+- 📫 &nbsp;You can get in touch with me by email at [raniahamada0308@gmail.com](mailto:raniahamada0308@gmail.com) or on LinkedIn: [rania-hamada](https://www.linkedin.com/in/rania-hamada/)
 - ⚡ &nbsp;Fun fact: I :heart: reading, writing and photography
 
  ### 🔗&nbsp;**Connect with me**
