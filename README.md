@@ -42,6 +42,7 @@ I'm Rania, a Communication and Electronics fresh graduate Engineer with passion 
 <img align="center" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="numpy" height="50" width="50"/>
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png" alt="pandas" height="50" width="100"/>
 <img align="center" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="matplotlib" height="30" width="100"/>
+ <img align="center" src="[https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png](https://www.bing.com/images/search?view=detailV2&ccid=Be5o6RTT&id=923BD3D6D990A79DCFEC1888D4CC9C80E0E01467&thid=OIP.Be5o6RTTkZyPg0eIZsXZkQHaEK&mediaurl=https%3a%2f%2fblog.mockun.com%2fcontent%2fimages%2f2018%2f09%2fKeras-1.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.05ee68e914d3919c8f83478866c5d991%3frik%3dZxTg4ICczNSIGA%26pid%3dImgRaw%26r%3d0&exph=2250&expw=4000&q=keras&simid=608011672725192129&FORM=IRPRST&ck=51766D89BBD8EA7EF162FE2DB685E6A5&selectedIndex=2)" alt="Keras" height="30" width="100"/>
 </p>
 
 <!-- <details>
