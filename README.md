@@ -37,12 +37,12 @@ I'm Rania, a Communication and Electronics fresh graduate Engineer with passion 
   <img align="center" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" height="50" width="50"/>
   <img align="center" src="https://i.pinimg.com/originals/30/b1/50/30b150cd489202db131009ac9540cec0.png" alt="github" height="50" width="50"/>
 <img align="center" src="https://raw.githubusercontent.com/wiki/opencv/opencv/logo/OpenCV_logo_no_text.png" alt="opencv" height="50" width="50"/>
-<img align="center" src="https://www.pngitem.com/pimgs/m/75-753841_tensorflow-logo-transparent-hd-png-download.png" alt="tensorflow" height="50" width="50"/>
+<img align="center" src="https://th.bing.com/th/id/OIP.W9bfKyRZ-C0njtcY24jBWwHaEK?pid=ImgDet&rs=1" alt="tensorflow" height="50" width="50"/>
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" alt="scikitlearn" height="50" width="100"/>
 <img align="center" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="numpy" height="50" width="50"/>
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png" alt="pandas" height="50" width="100"/>
 <img align="center" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="matplotlib" height="30" width="100"/>
- <img align="center" src="[https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png](https://www.bing.com/images/search?view=detailV2&ccid=Be5o6RTT&id=923BD3D6D990A79DCFEC1888D4CC9C80E0E01467&thid=OIP.Be5o6RTTkZyPg0eIZsXZkQHaEK&mediaurl=https%3a%2f%2fblog.mockun.com%2fcontent%2fimages%2f2018%2f09%2fKeras-1.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.05ee68e914d3919c8f83478866c5d991%3frik%3dZxTg4ICczNSIGA%26pid%3dImgRaw%26r%3d0&exph=2250&expw=4000&q=keras&simid=608011672725192129&FORM=IRPRST&ck=51766D89BBD8EA7EF162FE2DB685E6A5&selectedIndex=2)" alt="Keras" height="30" width="100"/>
+ <img align="center" src="https://th.bing.com/th/id/R.b21cec5026a349b23f4ea35b5db36493?rik=8Gy0l41%2bd1Un7w&pid=ImgRaw&r=0" alt="Keras" height="30" width="100"/>
 </p>
 
 <!-- <details>
