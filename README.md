@@ -5,10 +5,10 @@
 
 I'm Rania, a Communication and Electronics fresh graduate Engineer with passion for Data, willing to learn and grow. Data and Programming Enthusiast with strong Statistical and Mathematical background. Strategic thinking and meaning of work are the main principles of my work.
 
-- 🔭 &nbsp;I’m currently a Machine Learning Engineer Intern at Technolabs Software 
-- 🌱 &nbsp;I’m currently learning Machine Learning and SQL & DB
+- 🔭 &nbsp;I’m currently a Machine Learning Engineer at Omdena Jordan - Deaf & Dumb assistant and a STEAM instructor at Pyramakerz technologies 
+- 🌱 &nbsp;I’m currently learning practical Machine Learning for Data Scientists
 - 📫 &nbsp;You can get in touch with me by email at [raniahamada0308@gmail.com](mailto:raniahamada0308@gmail.com) or on LinkedIn: [rania-hamada](https://www.linkedin.com/in/rania-hamada/)
-- ⚡ &nbsp;Fun fact: I :heart: reading, writing and photography
+- ⚡ &nbsp;Facts about me: I :heart: reading, writing and photography
 
  ### 🔗&nbsp;**Connect with me**
 <p align="left">
