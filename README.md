@@ -46,7 +46,8 @@ I'm Rania, a Communication and Electronics fresh graduate Engineer with passion 
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=
-    raniaelhagin&show_icons=true&locale=en&layout=compact alt="raniaelhagin" /></p>
+    raniaelhagin&show_icons=true&locale=en&layout=compact" 
+    alt="raniaelhagin" /></p>
 
 <!-- <details>
 <summary><b>✨&nbsp;&nbsp;My&nbsp;Resume</b></summary>
