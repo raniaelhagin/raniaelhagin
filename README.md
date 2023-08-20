@@ -5,8 +5,7 @@
 
 I'm Rania, a Communication and Electronics fresh graduate Engineer with passion for Data, willing to learn and grow. Data and Programming Enthusiast with strong Statistical and Mathematical background. Strategic thinking and meaning of work are the main principles of my work.
 
-- 🔭 &nbsp;I’m currently an Intern in ML on Cloud track in NTI and an Intern in ALX Afric Software Engineering
-<!--- - 🌱 &nbsp;I’m currently learning practical Machine Learning for Data Scientists --->
+- 🔭 &nbsp;I’m currently an Intern in ML on Cloud track in NTI and an Intern in ALX Afric Software Engineering<!--- - 🌱 &nbsp;I’m currently learning practical Machine Learning for Data Scientists --->
 - 📫 &nbsp;You can get in touch with me by email at [raniahamada0308@gmail.com](mailto:raniahamada0308@gmail.com) or on LinkedIn: [rania-hamada](https://www.linkedin.com/in/rania-hamada/)
 - ⚡ &nbsp;Facts about me: I :heart: reading, writing and photography
 
